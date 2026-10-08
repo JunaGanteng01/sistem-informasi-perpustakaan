@@ -37,7 +37,7 @@ supaya bisa diakses secara online dengan memanfaatkan layanan cloud computing.
 | 4  | ...  | ... |
 
 ## Kelas
-1B TRPL (sesuaikan)
+1B TRPL
 
 ## Dosen Pengampu
 Dr. Putu Desiana Wulaning Ayu, S.T., M.T.
