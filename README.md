@@ -34,7 +34,7 @@ supaya bisa diakses secara online dengan memanfaatkan layanan cloud computing.
 | 1  | Mahitasotthi Sacca Devandra    | 2615354086 |
 | 2  | I Gst.Pt Mustika Arjuna Susila | 2615354046 |
 | 3  | I Gede Erik Arimbawa Redifa | 2615354078 |
-| 4  | ...  | ... |
+| 4  | Ida Bagus Alit Bhadra Yoga | 2615354038 |
 
 ## Kelas
 1B TRPL
