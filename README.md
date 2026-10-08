@@ -29,15 +29,15 @@ supaya bisa diakses secara online dengan memanfaatkan layanan cloud computing.
 | `04-panduan/` | Panduan penggunaan sistem |
 
 ## Anggota Kelompok
-| No | Nama | NIM |
-|----|------|-----|
-| 1  | ...  | ... |
-| 2  | ...  | ... |
+| No |             Nama               |     NIM    |
+|----|--------------------------------|------------|
+| 1  | Mahitasotthi Sacca Devandra    | 2615354086 |
+| 2  | I Gst.Pt Mustika Arjuna Susila | 2615354046 |
 | 3  | ...  | ... |
 | 4  | ...  | ... |
 
 ## Kelas
-1B / 1C / 1D TRPL (sesuaikan)
+1B TRPL (sesuaikan)
 
 ## Dosen Pengampu
 Dr. Putu Desiana Wulaning Ayu, S.T., M.T.
