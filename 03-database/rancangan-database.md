@@ -36,3 +36,14 @@ jadi backup dan perawatannya sebagian besar diurus penyedia cloud.
 ## 4. Relasi Antar Tabel
 - Satu **anggota** bisa punya banyak **peminjaman**.
 - Satu **buku** bisa dipinjam berkali-kali (banyak **peminjaman**).
+
+## 5. Tabel `denda`
+| Kolom | Tipe Data | Keterangan |
+|-------|-----------|------------|
+| id_denda | INT (PK) | Kode unik denda |
+| id_pinjam | INT (FK) | Transaksi peminjaman yang terlambat |
+| jumlah_hari | INT | Jumlah hari keterlambatan |
+| total_denda | INT | Rp1.000 x jumlah hari terlambat |
+| status_bayar | VARCHAR(15) | Lunas / Belum Lunas |
+
+- Satu **peminjaman** maksimal punya satu **denda**.
